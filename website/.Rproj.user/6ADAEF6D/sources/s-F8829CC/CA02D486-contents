@@ -1,0 +1,6 @@
+library(blogdown)
+
+blogdown::install_hugo(force=True)
+
+blogdown::serve_site()
+

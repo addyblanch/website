@@ -1,0 +1,45 @@
+---
+bio: My research interests include all things bioinformtics; metagenomics, antimircobial resistance and vaccinology.
+education:
+  courses:
+  - course: PhD in Veterinary Science
+    institution: University of Nottingham
+    year: 2015
+  - course: BSc in Animal Science
+    institution: Nottingham Trent University
+    year: 2003
+email: "adam.blanchard@nottingham.ac.uk"
+highlight_name: false
+interests:
+- Bioinformtics
+- Microbiology
+- Large animal health and welfare
+organizations:
+- name: University of Nottingham
+  url: https://www.nottingham.ac.uk
+role: Assistant Professor of Computational Biology
+social:
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/addyblanch
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.co.uk/citations?user=ohKGONcAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/addyblanch
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/adam-blanchard-b126469a/
+superuser: false
+title: Adam Blanchard
+---
+
+Dr Blanchard graduated from Nottingham Trent University in 2006 with a BSc (Hons) in Animal Science. He then went on to be a research technician for six years before completing a PhD in Computational Microbiology at the school of Veterinary Medicine and Sciences at Nottingham University in 2015. He then continued to hold a Post-doctoral research fellow post before being appointed as a lecturer in genetics at the School of Animal, Rural and Environmental Sciences at Nottingham Trent University in 2018.
+
+Dr Blanchard has since returned to the School of Veterinary Medicine and Science in 2019 as a Assistant Professor in Computational Biology and to course lead the MRes Apprenticeship in Bioinformatics.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
