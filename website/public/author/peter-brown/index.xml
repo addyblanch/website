@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Brown | Academic</title>
+    <link>/author/peter-brown/</link>
+      <atom:link href="/author/peter-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Brown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Peter Brown</title>
+      <link>/author/peter-brown/</link>
+    </image>
+    
+    <item>
+      <title>Large expert-curated database for benchmarking document similarity detection in biomedical literature search</title>
+      <link>/publication/brown-large-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/brown-large-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

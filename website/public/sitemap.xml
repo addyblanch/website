@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/archer-paradox-2020/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adam-m.-blanchard/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/james-a.-leigh/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m.-filippa-addis/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nathan-archer/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/philip-n.-ward/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/richard-d.-emes/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sharon-a.-egan/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tracey-j.-coffey/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/santi-complete-2020/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-w.-verner-jeffreys/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/morena-santi/</loc>
+    <lastmod>2021-01-13T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/amy-glanvill/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/catherine-e.d.-rees/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/blanchard-characterisation-2020/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christiane-pfarrer/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/emma-drinkall/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/grazieli-maboni/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jessica-warren/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-s.-robinson/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rosemarie-billenness/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sabine-totemeyer/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/william-roden/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ashish-satav/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/colin-hill/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jinal-gandhi/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lorraine-a.-draper/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mark-wilcox/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/monaghan-metagenomics-2020/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pratishtha-jain/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rajpal-singh-kashyap/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rima-biswas/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rupam-nashine/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shrejal-bhotmange/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shrikant-ambalkar/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sonali-manke/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stephen-r.-stockdale/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tanya-m.-monaghan/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tim-j.-sloan/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ceri-e.-staley/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/davies-genomic-2020/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicola-j.-bollard/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-l-davies/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adam-blanchard/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/shaw-dirtygenes-2019/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dov-j.-stekel/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/laurence-m.-shaw/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peers-davies/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/qinglin-chen/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xinli-an/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yong-guan-zhu/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adam-mark-blanchard/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/darren-trott/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/farhid-hemmatzadeh/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sarker-genetic-2019/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/greg-simmons/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/helen-owen/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jasmeet-kaler/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jennifer-seddon/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jessica-fabijan/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joanne-meers/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joshua-thia/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lucy-woolford/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/natasha-speight/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nishat-sarker/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rachael-tarlinton/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/richard-david-emes/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adam-blanchard/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-t-mcclure/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/javier-sanchez/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/juan-c-rodriguez-lecompte/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/julian-reyes/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/brown-large-2019/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/reyes-molecular-2019/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-brown/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/relish-consortium/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yaoqi-zhou/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/catrin-s.-rutland/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ceri-stewart/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/melissa-bexon/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-a.-jones/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-agbaje/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/agbaje-novel-2018/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrew-warry/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/keith-a.-jolley/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martin-c.-j.-maiden/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peers-l.-davies/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/blanchard-applied-2018/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/maboni-novel-2017/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gary-entrican/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kate-sessford/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kerstin-baiker/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rebecca-davenport/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sean-wattegedera/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tim-k.-jensen/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/maboni-distinct-2017/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/richard-emes/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sara-frosth/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/blanchard-pimms-2016/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bbsrc/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/idrc/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/blanchard-transposon-2015/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/charlotte-bell/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christopher-burton/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/claire-hill/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cyril-rauch/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/freya-shephard/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bell-importance-2013/</loc>
+    <lastmod>2021-01-13T13:38:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/6/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/devaux-membrane-2011/</loc>
+    <lastmod>2021-01-13T13:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/laurent-counillon/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mallorie-poet/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/miriam-l.-wahl/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nina-milosavljevic/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/salvador-harguindey/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/milosavljevic-teaching-2011/</loc>
+    <lastmod>2021-01-13T13:38:20+00:00</lastmod>
+  </url>
+  
+</urlset>

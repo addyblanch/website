@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ceri Stewart | Academic</title>
+    <link>/author/ceri-stewart/</link>
+      <atom:link href="/author/ceri-stewart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ceri Stewart</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Ceri Stewart</title>
+      <link>/author/ceri-stewart/</link>
+    </image>
+    
+    <item>
+      <title>Novel inflammatory cell infiltration scoring system to investigate healthy and footrot affected ovine interdigital skin</title>
+      <link>/publication/agbaje-novel-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/agbaje-novel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distinct bacterial dysbiosis associated skin inflammation in ovine footrot</title>
+      <link>/publication/maboni-distinct-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/maboni-distinct-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Paradox in Bacterial Pathogenesis: Activation of the Local Macrophage Inflammasome Is Required for Virulence of Streptococcus uberis</title>
+      <link>/publication/archer-paradox-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/archer-paradox-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete Genome Sequence of Streptococcus agalactiae Strain 01173, Isolated from Kuwaiti Wild Fish</title>
+      <link>/publication/santi-complete-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santi-complete-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterisation of Listeria monocytogenes isolates from cattle using a bovine caruncular epithelial cell model</title>
+      <link>/publication/blanchard-characterisation-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-characterisation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenomics reveals impact of geography and acute diarrheal disease on the Central Indian human gut microbiome</title>
+      <link>/publication/monaghan-metagenomics-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/monaghan-metagenomics-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic heterogeneity of Dichelobacter nodosus within and between UK sheep flocks and between age groups within a flock</title>
+      <link>/publication/davies-genomic-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/davies-genomic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DirtyGenes: testing for significant changes in gene or bacterial population compositions from a small number of samples</title>
+      <link>/publication/shaw-dirtygenes-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shaw-dirtygenes-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic diversity of Koala retrovirus env gene subtypes: insights into northern and southern koala populations</title>
+      <link>/publication/sarker-genetic-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sarker-genetic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large expert-curated database for benchmarking document similarity detection in biomedical literature search</title>
+      <link>/publication/brown-large-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/brown-large-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular variability of Streptococcus uberis isolates from intramammary infections in Canadian dairy farms from the Maritime region</title>
+      <link>/publication/reyes-molecular-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/reyes-molecular-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel inflammatory cell infiltration scoring system to investigate healthy and footrot affected ovine interdigital skin</title>
+      <link>/publication/agbaje-novel-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/agbaje-novel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Applied Development of a Tiered Multilocus Sequence Typing (MLST) Scheme for Dichelobacter nodosus</title>
+      <link>/publication/blanchard-applied-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-applied-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel 3D Skin Explant Model to Study Anaerobic Bacterial Infection</title>
+      <link>/publication/maboni-novel-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/maboni-novel-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distinct bacterial dysbiosis associated skin inflammation in ovine footrot</title>
+      <link>/publication/maboni-distinct-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/maboni-distinct-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIMMS (Pragmatic Insertional Mutation Mapping System) Laboratory Methodology a Readily Accessible Tool for Identification of Essential Genes in Streptococcus</title>
+      <link>/publication/blanchard-pimms-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-pimms-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transposon insertion mapping with PIMMS – Pragmatic Insertional Mutation Mapping System</title>
+      <link>/publication/blanchard-transposon-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-transposon-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Importance of the Difference in Surface Pressures of the Cell Membrane in Doxorubicin Resistant Cells That do not Express Pgp and ABCG2</title>
+      <link>/publication/bell-importance-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bell-importance-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membrane Lipid Asymmetry and Permeability to Drugs: A Matter of Size</title>
+      <link>/publication/devaux-membrane-2011/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/devaux-membrane-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching New Dogs Old Tricks: Membrane Biophysical Properties in Drug Delivery and Resistance</title>
+      <link>/publication/milosavljevic-teaching-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/milosavljevic-teaching-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

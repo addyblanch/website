@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yong-Guan Zhu | Academic</title>
+    <link>/author/yong-guan-zhu/</link>
+      <atom:link href="/author/yong-guan-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yong-Guan Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Yong-Guan Zhu</title>
+      <link>/author/yong-guan-zhu/</link>
+    </image>
+    
+    <item>
+      <title>DirtyGenes: testing for significant changes in gene or bacterial population compositions from a small number of samples</title>
+      <link>/publication/shaw-dirtygenes-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shaw-dirtygenes-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

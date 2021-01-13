@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicola J. Bollard | Academic</title>
+    <link>/author/nicola-j.-bollard/</link>
+      <atom:link href="/author/nicola-j.-bollard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicola J. Bollard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Nicola J. Bollard</title>
+      <link>/author/nicola-j.-bollard/</link>
+    </image>
+    
+    <item>
+      <title>Genomic heterogeneity of Dichelobacter nodosus within and between UK sheep flocks and between age groups within a flock</title>
+      <link>/publication/davies-genomic-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/davies-genomic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Applied Development of a Tiered Multilocus Sequence Typing (MLST) Scheme for Dichelobacter nodosus</title>
+      <link>/publication/blanchard-applied-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-applied-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sabine Totemeyer | Academic</title>
+    <link>/author/sabine-totemeyer/</link>
+      <atom:link href="/author/sabine-totemeyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sabine Totemeyer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Sabine Totemeyer</title>
+      <link>/author/sabine-totemeyer/</link>
+    </image>
+    
+    <item>
+      <title>Characterisation of Listeria monocytogenes isolates from cattle using a bovine caruncular epithelial cell model</title>
+      <link>/publication/blanchard-characterisation-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-characterisation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic heterogeneity of Dichelobacter nodosus within and between UK sheep flocks and between age groups within a flock</title>
+      <link>/publication/davies-genomic-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/davies-genomic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DirtyGenes: testing for significant changes in gene or bacterial population compositions from a small number of samples</title>
+      <link>/publication/shaw-dirtygenes-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shaw-dirtygenes-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel inflammatory cell infiltration scoring system to investigate healthy and footrot affected ovine interdigital skin</title>
+      <link>/publication/agbaje-novel-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/agbaje-novel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Applied Development of a Tiered Multilocus Sequence Typing (MLST) Scheme for Dichelobacter nodosus</title>
+      <link>/publication/blanchard-applied-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-applied-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel 3D Skin Explant Model to Study Anaerobic Bacterial Infection</title>
+      <link>/publication/maboni-novel-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/maboni-novel-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distinct bacterial dysbiosis associated skin inflammation in ovine footrot</title>
+      <link>/publication/maboni-distinct-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/maboni-distinct-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Warry | Academic</title>
+    <link>/author/andrew-warry/</link>
+      <atom:link href="/author/andrew-warry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Warry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrew Warry</title>
+      <link>/author/andrew-warry/</link>
+    </image>
+    
+    <item>
+      <title>The Applied Development of a Tiered Multilocus Sequence Typing (MLST) Scheme for Dichelobacter nodosus</title>
+      <link>/publication/blanchard-applied-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-applied-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIMMS (Pragmatic Insertional Mutation Mapping System) Laboratory Methodology a Readily Accessible Tool for Identification of Essential Genes in Streptococcus</title>
+      <link>/publication/blanchard-pimms-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-pimms-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

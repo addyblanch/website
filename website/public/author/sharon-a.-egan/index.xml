@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharon A. Egan | Academic</title>
+    <link>/author/sharon-a.-egan/</link>
+      <atom:link href="/author/sharon-a.-egan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sharon A. Egan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Sharon A. Egan</title>
+      <link>/author/sharon-a.-egan/</link>
+    </image>
+    
+    <item>
+      <title>A Paradox in Bacterial Pathogenesis: Activation of the Local Macrophage Inflammasome Is Required for Virulence of Streptococcus uberis</title>
+      <link>/publication/archer-paradox-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/archer-paradox-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete Genome Sequence of Streptococcus agalactiae Strain 01173, Isolated from Kuwaiti Wild Fish</title>
+      <link>/publication/santi-complete-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/santi-complete-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIMMS (Pragmatic Insertional Mutation Mapping System) Laboratory Methodology a Readily Accessible Tool for Identification of Essential Genes in Streptococcus</title>
+      <link>/publication/blanchard-pimms-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-pimms-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transposon insertion mapping with PIMMS – Pragmatic Insertional Mutation Mapping System</title>
+      <link>/publication/blanchard-transposon-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/blanchard-transposon-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
